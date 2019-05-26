@@ -1,0 +1,11 @@
+.welcome {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: silver;
+}
+
+h1{
+  font-size: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+}
